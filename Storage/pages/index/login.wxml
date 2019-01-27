@@ -1,0 +1,8 @@
+<!--pages/index/login.wxml-->
+
+
+<view id='loginFormView'>
+    <input id='accountInput' value='123456' disabled='true'></input>
+    <button id='loginBtn' bindtap='loginClickAction'>登录</button>
+
+</view>

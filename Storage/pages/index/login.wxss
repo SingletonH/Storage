@@ -1,0 +1,22 @@
+/* pages/index/login.wxss */
+
+#loginFormView {
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 30%;
+}
+
+#accountInput{
+    width: 100%;
+    height: 60rpx;
+    border: 1px solid goldenrod;
+}
+
+#loginBtn{
+    width: 100%;
+    height: 60rpx;
+    background-color: #09bb07;
+    margin-top: 60rpx;
+    line-height: 60rpx;
+    size: 20rpx;
+}
